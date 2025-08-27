@@ -1,9 +1,4 @@
 # React Interview Questions & Answers
-
-
-
-### Table of Contents
-
 <details open>
 <summary>
 Hide/Show table of contents
